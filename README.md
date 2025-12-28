@@ -23,6 +23,3 @@ Check out the live demo here: [Animated Countdown on Vercel]--(https://animatedc
 - **JavaScript (ES6)** — Countdown logic and DOM manipulation.
 
 ---
-
-## 🧪 How to Run Locally
-1. Clone this repository:
