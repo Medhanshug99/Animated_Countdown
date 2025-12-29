@@ -5,7 +5,7 @@ An elegant and minimal **animated countdown** built with HTML, CSS, and JavaScri
 ---
 
 ## 🚀 Live Preview
-Check out the live demo here: [Animated Countdown on Vercel]--(https://animatedcountdown1.vercel.app/)
+Check out the live demo here: https://animatedcountdown1.vercel.app/
 
 ---
 
