@@ -18,8 +18,8 @@ Check out the live demo here: https://animatedcountdown1.vercel.app/
 ---
 
 ## 🧰 Tech Stack
-- **HTML5** — Structure and semantic layout.  
-- **CSS3** — Animations, transitions, and styling.  
-- **JavaScript (ES6)** — Countdown logic and DOM manipulation.
+- **HTML5** 
+- **CSS3**  
+- **JavaScript**
 
 ---
